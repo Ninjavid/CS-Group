@@ -7,7 +7,7 @@ A chess game like the one from Star Trek. The game works by your pawns being abl
 
 ----------------
 
-#### Gui for both games in 2D single board view
+#### Gui for both games while in 2D single board view
 
 <img src="https://github.com/Ninjavid/CS-Group/raw/main/3D-Chess/3D%20Chess_230308_230725471_0.png"/>
 
