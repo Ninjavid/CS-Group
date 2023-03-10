@@ -14,5 +14,5 @@ A chess game like the one from Star Trek. The game works by your pawns being abl
 
 
 ## Atomic Chess
-Everything goes kaboom whenever you attack someone. Pawns are safe in explosions and your piece is sacrifised when you attack with it. To win you have to kill the king in a explosion.
+Everything goes kaboom whenever you attack someone. Pawns are safe in explosions and your piece is sacrifised when you attack with it. To win you have to kill the king in a explosion. (The explosions are 3x3 not 9x9 like the image says)
 <img src="https://github.com/Ninjavid/CS-Group/raw/main/Atomic-Chess/Atomic%20Chess_230308_231040155_0.png"/>
