@@ -1,7 +1,7 @@
 # C# Group
 
 ## 3D Chess
-A chess game like the one from Star Trek. The game works by your pawns being able to move one dimention or to move normaly. We'll change parts of how the game is played as me make it.
+A chess game like the one from Star Trek. The game might work by your pawns being able to move one dimention or to move normaly. We'll change parts of how the game is played as me make it.
 
 <img src="https://raw.githubusercontent.com/Ninjavid/CS-Group/main/concept.png" width="600" height="1000"/>
 
